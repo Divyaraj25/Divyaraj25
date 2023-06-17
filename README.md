@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Divyaraj25
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C Language
-- 💞️ I’m looking to collaborate as a software developer
+- 🏫 I am currently doing B.Tech IT in RK University
+- 👀 My favorite language is python
+- 🌱 I’m currently learning Machine learning
+- 💞️ I’m looking to collaborate as a python developer or a data scientist
 - 📫 my instagram id @div_rajput2505
 - 📧 You can also contact me through mail id @divyaraj.makwana9425@gmail.com
 
