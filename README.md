@@ -2,8 +2,7 @@
 
 🌟 **Full Stack Developer** specializing in **MEAN** (MongoDB, Express, Angular, Node.js) and **MERN** (MongoDB, Express, React, Node.js) stacks, with a keen interest in **Python** and data engineering. I love exploring how to turn data into impactful solutions.
 
-**Portfolio:** [divyaraj.me](https://divyaraj.me)  
-**Contact:** divyarajmakwana@gmail.com
+**Contact:** divyaraj.makwana9425@gmail.com
 
 ---
 
